@@ -12,13 +12,11 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About This Project](#star2-about-the-project)
-- [Discord](https://github.com/developer-vivek/Discord-Themes/) - [Spotify](https://github.com/developer-vivek/Spotify-Themes)  Themes Shown in picture
-- [Preview](#Preview)
-- [Download](#Download)
-- [WorkFlow](#WorkFlow)
+- [Niagara-Setup](#Niagara-Setup)
+- [Nova-Setup](#Nova-Setup)
 
 ## :star2: About This Project
-Here you will find different colour themes for Hyprland WM. Currently it comes with Red, Green, Orange and Pink colours. More colours will added in future
+Here in this repo you will find collection of some cool, unique and stylish homescreen setups for android either made by me or some other people.
 
 # Preview
 <details>
