@@ -31,7 +31,7 @@ Files Used :-
 
 (3) Icons - Used inbuilt Niagara sticker icon pack present in Niagara Launcher
 
-(4) KWGT Widget - Provided in Niagara Setup-1 File
+(4) KWGT Widget - [Provided in Niagara Setup-1 File](https://github.com/developer-vivek/Android-Home-Screen-Setups/releases/tag/Stable)
 </details>
 
 # Nova-Launcher-Setups
