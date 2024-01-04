@@ -12,13 +12,13 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About This Project](#star2-about-the-project)
-- [Niagara-Setup](#Niagara-Setup)
-- [Nova-Setup](#Nova-Setup)
+- [NiagaraLauncher-Setup](#Niagara-Setup)
+- [NovaLauncher-Setup](#Nova-Setup)
 
 ## :star2: About This Project
 Here in this repo you will find collection of some cool, unique and stylish homescreen setups for android either made by me or some other people.
 
-# Preview
+# Niagara-Launcder
 <details>
 <summary>Waybar and Wallpaper</summary>
 <img src="https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/a5eb75f8-caab-4f68-9885-69f62550f8c2"/>
