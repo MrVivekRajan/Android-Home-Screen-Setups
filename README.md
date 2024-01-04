@@ -12,13 +12,13 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About This Project](#star2-about-the-project)
-- [NiagaraLauncher-Setup](#Niagara-Setup)
-- [NovaLauncher-Setup](#Nova-Setup)
+- [Niagara-Launcher-Setup](#Niagara-Launcer-Setup)
+- [Nova-Launcher-Setup](#Nova-Launcher-Setup)
 
 ## :star2: About This Project
 Here in this repo you will find collection of some cool, unique and stylish homescreen setups for android either made by me or some other people.
 
-# Niagara-Launcder
+# Niagara-Launcher-Setup
 <details>
 <summary>Waybar and Wallpaper</summary>
 <img src="https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/a5eb75f8-caab-4f68-9885-69f62550f8c2"/>
@@ -49,7 +49,7 @@ Here in this repo you will find collection of some cool, unique and stylish home
 <img src="https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/7043e972-2aa2-42f3-a3b2-489666eb9639"/>
 </details>
 
-# Download
+# Nova-Launcher-Setup
 1. If you want to download all the themes at once then simply clone/download this [Repository](https://github.com/developer-vivek/Hyprland-Dots)
 
 2. If you want to download individual or your desired theme then download it from [Release-Section](https://github.com/developer-vivek/Hyprland-Dots/releases) 
