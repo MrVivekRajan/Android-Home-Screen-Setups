@@ -27,9 +27,6 @@ Here in this repo you will find collection of some cool, unique and stylish home
 # Nova-Launcher-Setups
 Setups will be added in future 
 
-# WorkFlow
-https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/8eb960b6-3a87-4371-91d9-9e273799e5a9
-
 # Thanks for Visiting !! ❤️❤️
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
 
