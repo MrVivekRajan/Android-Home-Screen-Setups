@@ -20,7 +20,7 @@ Here in this repo you will find collection of some cool, unique and stylish home
 
 # Niagara-Launcher-Setup
 <details>
-<summary>Waybar and Wallpaper</summary>
+<summary>Setup-1</summary>
 <img src="https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/a5eb75f8-caab-4f68-9885-69f62550f8c2"/>
 </details>
 
@@ -50,7 +50,7 @@ Here in this repo you will find collection of some cool, unique and stylish home
 </details>
 
 # Nova-Launcher-Setup
-will be added in future 
+Setups will be added in future 
 
 # WorkFlow
 https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/8eb960b6-3a87-4371-91d9-9e273799e5a9
