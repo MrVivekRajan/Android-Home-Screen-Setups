@@ -27,7 +27,7 @@ Files Used :-
 
 (1) Launcher - Niagara Launcher
 
-(2) Wallpaper - Provided in Niagara Setup-1 File
+(2) Wallpaper - [Provided in Niagara Setup-1 File](https://github.com/developer-vivek/Android-Home-Screen-Setups/releases/tag/Stable)
 
 (3) Icons - Used inbuilt Niagara sticker icon pack present in Niagara Launcher
 
