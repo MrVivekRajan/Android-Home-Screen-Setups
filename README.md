@@ -22,6 +22,7 @@ Here in this repo you will find collection of some cool, unique and stylish home
 <details>
 <summary>Setup-1</summary>
 <img src="https://github.com/developer-vivek/Android-Home-Screen-Setups/assets/85994908/251a8e81-3c4a-4d51-b6f0-ec021e0d069e"/>
+	
 Files Used :-
 
 (1) Launcher - Niagara Launcher
