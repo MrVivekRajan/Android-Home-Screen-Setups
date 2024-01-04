@@ -50,9 +50,7 @@ Here in this repo you will find collection of some cool, unique and stylish home
 </details>
 
 # Nova-Launcher-Setup
-1. If you want to download all the themes at once then simply clone/download this [Repository](https://github.com/developer-vivek/Hyprland-Dots)
-
-2. If you want to download individual or your desired theme then download it from [Release-Section](https://github.com/developer-vivek/Hyprland-Dots/releases) 
+will be added in future 
 
 # WorkFlow
 https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/8eb960b6-3a87-4371-91d9-9e273799e5a9
