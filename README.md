@@ -27,11 +27,11 @@ Files Used :-
 
 ‣ Launcher - [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher&pcampaignid=web_share)
 
-(2) Wallpaper - [Provided in Niagara Setup-1 File](https://github.com/developer-vivek/Android-Home-Screen-Setups/releases/tag/Stable)
+‣ Wallpaper - [Provided in Niagara Setup-1 File](https://github.com/developer-vivek/Android-Home-Screen-Setups/releases/tag/Stable)
 
-(3) Icons - Used Inbuilt Niagara sticker icon pack present in Niagara Launcher
+‣ Icons - Used Inbuilt Niagara sticker icon pack present in Niagara Launcher
 
-(4) KWGT Widget - [Provided in Niagara Setup-1 File](https://github.com/developer-vivek/Android-Home-Screen-Setups/releases/tag/Stable)
+‣ KWGT Widget - [Provided in Niagara Setup-1 File](https://github.com/developer-vivek/Android-Home-Screen-Setups/releases/tag/Stable)
 </details>
 
 # Nova-Launcher-Setups
