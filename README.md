@@ -23,11 +23,11 @@ Here in this repo you will find collection of some cool, unique and stylish home
 <summary>Setup-1</summary>
 <img src="https://github.com/developer-vivek/Android-Home-Screen-Setups/assets/85994908/251a8e81-3c4a-4d51-b6f0-ec021e0d069e"/>
 <img src="https://github.com/developer-vivek/Android-Home-Screen-Setups/assets/85994908/423c50ec-bc54-4933-a70d-e074299044ce"/>
-# Files Used:-
-Launcher
-Wallpaper 
-Icons
-KWGT
+Files Used:-
+(1) Launcher
+(2) Wallpaper 
+(3) Icons
+(4) KWGT
 </details>
 
 # Nova-Launcher-Setups
