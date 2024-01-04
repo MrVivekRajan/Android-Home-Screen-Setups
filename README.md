@@ -1,6 +1,6 @@
 <h3 align="center">
 	<img src="https://styles.redditmedia.com/t5_6sciw0/styles/communityIcon_h3cvittvupi91.png" width="100" alt="Logo"/><br/>
-	Cool and Unique Setups for <a href="https://hyprland.org/">Android Home screen</a>
+	Cool and Unique Setups for <a href="https://www.android.com/intl/en_in/">Android</a> Home screen
 </h3>
 
 <p align="center">
