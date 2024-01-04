@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/developer-vivek/Hyprland-Dots/stargazers"><img src="https://img.shields.io/github/stars/developer-vivek/Hyprland-Dots?colorA=ff671f&colorB=016064&style=for-the-badge"></a>
+    <a href="https://github.com/developer-vivek/Android-Home-screen-Setups/stargazers"><img src="https://img.shields.io/github/stars/developer-vivek/Hyprland-Dots?colorA=ff671f&colorB=016064&style=for-the-badge"></a>
      <a href="https://github.com/developer-vivek/Hyprland-Dots/contributors"><img src="https://img.shields.io/github/contributors/developer-vivek/Hyprland-Dots?colorA=ffffff&colorB=e6b847&style=for-the-badge"></a>
     <a href="https://github.com/developer-vivek/Hyprland-Dots/issues"><img src="https://img.shields.io/github/issues/developer-vivek/Hyprland-Dots?colorA=046a38&colorB=c51e3a&style=for-the-badge"></a>
 </p>
