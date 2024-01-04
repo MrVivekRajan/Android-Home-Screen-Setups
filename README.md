@@ -25,7 +25,7 @@ Here in this repo you will find collection of some cool, unique and stylish home
 	
 Files Used :-
 
-(1) Launcher - [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher&pcampaignid=web_share)
+‣ Launcher - [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher&pcampaignid=web_share)
 
 (2) Wallpaper - [Provided in Niagara Setup-1 File](https://github.com/developer-vivek/Android-Home-Screen-Setups/releases/tag/Stable)
 
