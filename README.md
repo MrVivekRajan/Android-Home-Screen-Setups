@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://th.bing.com/th/id/OIP.9lkAcmNDUpqc0CZbDkjsoQHaGl?rs=1&pid=ImgDetMain" width="200" alt="Logo"/><br/>
+	<img src="https://th.bing.com/th/id/OIP.9lkAcmNDUpqc0CZbDkjsoQHaGl?rs=1&pid=ImgDetMain" width="300" alt="Logo"/><br/>
 	Cool and Unique Setups for <a href="https://www.android.com/intl/en_in/">Android</a> Home screen
 </h3>
 
