@@ -41,4 +41,4 @@ Setups will be added in future
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
 
 
-<h4> <span>· </span> <a href="https://github.com/developer-vivek/Hyprland-Dots/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/developer-vivek/Hyprland-Dots/issues"> Request Feature </a> </h4>
+<h4> <span>· </span> <a href="https://github.com/developer-vivek/Android-Home-screen-Setups/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/developer-vivek/Android-Home-screen-Setups/issues"> Request Feature </a> </h4>
