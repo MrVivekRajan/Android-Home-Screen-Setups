@@ -12,44 +12,19 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About This Project](#star2-about-the-project)
-- [Niagara-Launcher-Setup](#Niagara-Launcer-Setup)
-- [Nova-Launcher-Setup](#Nova-Launcher-Setup)
+- [Niagara-Launcher-Setups](#Niagara-Launcer-Setups)
+- [Nova-Launcher-Setups](#Nova-Launcher-Setups)
 
 ## :star2: About This Project
 Here in this repo you will find collection of some cool, unique and stylish homescreen setups for android either made by me or some other people.
 
-# Niagara-Launcher-Setup
+# Niagara-Launcher-Setups
 <details>
 <summary>Setup-1</summary>
 <img src="https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/a5eb75f8-caab-4f68-9885-69f62550f8c2"/>
 </details>
 
-<details>
-<summary>Terminal</summary>
-<img src="https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/980d4c99-6ff7-4b26-ab96-8a4ad10d9621"/>
-</details>
-
-<details>
-<summary>Rofi</summary>
-<img src="https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/c988f2ab-f213-4735-82e4-ecd2b059301b"/>
-</details>
-
-<details>
-<summary>Discord</summary>
-<img src="https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/fafc31cd-e9fa-4d07-ae8c-7dc522d3c1e3"/>
-</details>
-
-<details>
-<summary>Spotify</summary>
-<img src="https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/4b55a22c-02cd-46e6-9f16-374e8a3c0c33"/>
-</details>
-
-<details>
-<summary>Dolphin</summary>
-<img src="https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/7043e972-2aa2-42f3-a3b2-489666eb9639"/>
-</details>
-
-# Nova-Launcher-Setup
+# Nova-Launcher-Setups
 Setups will be added in future 
 
 # WorkFlow
