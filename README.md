@@ -11,7 +11,7 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [bout This Project](#star2-about-the-project)
+- [About This Project](#star2-about-the-project)
 - [Niagara-Launcher-Setups](#Niagara-Launcer-Setups)
 - [Nova-Launcher-Setups](#Nova-Launcher-Setups)
 
